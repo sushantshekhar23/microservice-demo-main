@@ -1,0 +1,6 @@
+# Project exclude paths
+/microservice-demo-main/api-gateway/target/
+/microservice-demo-main/config-server/target/
+/microservice-demo-main/department-service/target/
+/microservice-demo-main/employee-service/target/
+/microservice-demo-main/service-registry/target/
